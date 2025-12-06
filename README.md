@@ -10,7 +10,6 @@ Fully free and mobile-friendly, deployable on **Hugging Face Spaces**.
 - Missing Skills Analysis
 - Grammar & Writing Issues
 - Summary Suggestions
-- Live demo for recruiters
 
 ## How to Deploy
 1. Push this repo to GitHub
